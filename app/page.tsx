@@ -4,6 +4,9 @@ import { Card } from "./components/card";
 
 export default function Home() {
   return (
+    //all designs are mobile first
+
+    
     <div className="h-screen w-screen">
       <div className="anton-font text-[40px] slide-right border-2">
         Redlimit.
