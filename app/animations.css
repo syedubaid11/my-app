@@ -18,3 +18,9 @@
         opacity: 1;
     }
 }
+
+.bg{
+    background-image: url('./assets/background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
